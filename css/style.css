@@ -148,14 +148,7 @@ ul, ol{
 table {
    width: 100%;
 }
-.footer-menu1{
-display: flex;
-justify-content: center;
-width: 500px;
-padding: 0;
-margin-left: 100px;
-
-}
+/* =========== FOOTER =========== */
 .footer{
   border: 0px solid black;
   background: #F0F0F0;
@@ -168,7 +161,6 @@ margin-left: 100px;
   right:0;
 
 }
-/* =========== FOOTER =========== */
 .footer-menu1{
 display: flex;
 justify-content: center;
