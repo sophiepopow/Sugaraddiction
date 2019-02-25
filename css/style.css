@@ -138,10 +138,7 @@ ul, ol{
 /* =========== TABLE =========== */
 
 .table-users {
-   border: 1px solid darken($baseColor, 5%);
-   border-radius: $borderRadius;
-   max-width: calc(100% - 2em);
-   margin: 1em auto;
+   margin: auto;
    overflow: hidden;
    width: 800px;
 }
