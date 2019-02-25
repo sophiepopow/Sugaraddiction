@@ -80,7 +80,7 @@ ul, ol{
 }
 .image {
   top: -10px;
-  width: 60%;
+  width: 10%;
   transition: .5s ease;
   display: block;
 }
