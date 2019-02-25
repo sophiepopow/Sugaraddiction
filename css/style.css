@@ -46,6 +46,7 @@ ul, ol{
   text-transform: uppercase;
   font-family: 'Arimo';
   font-size: 14px;
+  justify-content: space-between;
 }
 .menu-item-logo{
   color: #818181;
