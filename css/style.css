@@ -46,7 +46,6 @@ ul, ol{
   text-transform: uppercase;
   font-family: 'Arimo';
   font-size: 14px;
-  justify-content: space-between;
 }
 .menu-item-logo{
   color: #818181;
@@ -84,7 +83,30 @@ ul, ol{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 72%;
+  width: 72.5%;
+}
+.articles{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.article{
+  width: 50%;
+  margin-bottom: 55px;
+}
+.image-przepisy{
+  width: 90%;
+}
+.text {
+  color: #818181;
+  line-height: 1.8;
+}
+.przepis-link{
+  text-decoration: none;
+  color: black;
 }
 .container{
   position: relative;
@@ -117,7 +139,7 @@ ul, ol{
 }
 .container:hover .quiz-button{
   opacity: 1;
-}*/
+}*/s
 .heading {
   font-family: 'Playfair Display';
   font-weight: 500;
@@ -147,7 +169,6 @@ ul, ol{
 table {
    width: 100%;
 }
-/* =========== FOOTER =========== */
 .footer{
   border: 0px solid black;
   background: #F0F0F0;
